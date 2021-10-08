@@ -1,0 +1,12 @@
+#div1 {
+width: 200px;
+height: 200px;
+background-color: aqua;
+margin: 20px;
+text-align: center;
+font-weight: bold;
+position: absolute;
+top: 50%;
+transform:translateY(-50%);
+}
+

@@ -1,0 +1,19 @@
+#div1 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+    transition-property:background-color;
+    transition-duration: 2000ms;
+    transition-timing-function: ease-in;
+    }
+
+    #div1:hover {
+        background: chocolate;
+        border-radius: 75px;
+        border-radius: 3s ease-in;
+    }
+    
+    
